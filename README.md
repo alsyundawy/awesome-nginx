@@ -58,7 +58,7 @@ These modules are not distributed with the Nginx source.
 * [array-var-nginx-module](https://github.com/openresty/array-var-nginx-module) - Add support for array-typed variables to nginx config files.
 * [set-misc-nginx-module](https://github.com/openresty/set-misc-nginx-module) - Various set_xxx directives added to nginx's rewrite module (md5/sha1, sql/json quoting, and many more). 
 * [nginx-eval-module](https://github.com/vkholodkov/nginx-eval-module) - A module for evaluating memcached or proxy response into variable.
-* [ngx_pagespeed](https://github.com/pagespeed/ngx_pagespeed) - Automatic PageSpeed optimization module for Nginx. 
+* [ngx_pagespeed](https://github.com/apache/incubator-pagespeed-ngx) - Automatic PageSpeed optimization module for Nginx. 
 * [ngx_devel_kit](https://github.com/simpl/ngx_devel_kit) - Nginx Development Kit - an Nginx module that adds additional generic tools that module developers can use in their own modules.
 * [ngx_cache_purge](https://github.com/FRiCKLE/ngx_cache_purge) - nginx module which adds ability to purge content from FastCGI, proxy, SCGI and uWSGI caches. 
 * [ngx_postgres](https://github.com/FRiCKLE/ngx_postgres) - upstream module that allows nginx to communicate directly with PostgreSQL database.
@@ -237,6 +237,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [ngx-admintools](https://github.com/rmacd/ngx-admintools) - Debian Administration Tools for nginx web server. 
 * [nginx-config-formatter](https://github.com/1connect/nginx-config-formatter) - Nginx config file formatter/beautifier written in Python.
 * [veryNginx](https://github.com/alexazhou/VeryNginx) - A very powerful and friendly nginx base on lua-nginx-module( openresty  ) which provide WAF, Control Panel, and Dashboards.
+* [akamai-nginx](https://github.com/wyvern8/akamai-nginx) - Autoconfigure nginx based on Akamai property api rules using generated lua.
 
 ## Tutorials
 * [Nginx admin guide](https://www.nginx.com/resources/admin-guide/) - Nginx and nginx plus admin guide. 
@@ -248,8 +249,9 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [Nginx book](https://github.com/taobao/nginx-book) - Nginx from primer to expert (In Chinese).
 * [Nginx module development](http://www.evanmiller.org/nginx-modules-guide.html) - Emiller's guide to nginx module development. 
 * [OpenResty best practice](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details) - OpenResty best practice(In Chinese). 
-* [nginx-cheatsheet](https://github.com/SimulatedGREG/nginx-cheatsheet) - A quick reference to common server configurations from serving static files to using in congruency with Node.js applications.
+* [Nginx-cheatsheet](https://github.com/SimulatedGREG/nginx-cheatsheet) - A quick reference to common server configurations from serving static files to using in congruency with Node.js applications.
 * [Monitoring Nginx on Kubernetes](https://sysdig.com/blog/monitor-nginx-kubernetes/) - Deployment options, use cases, metrics and alerts for containerized Nginx instances on Kubernetes.
+* [Nginx-dev-examples](https://github.com/nginxinc/nginx-dev-examples) - NGINX module development examples
 
 ## Mailing Lists
 
