@@ -239,6 +239,9 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [veryNginx](https://github.com/alexazhou/VeryNginx) - A very powerful and friendly nginx base on lua-nginx-module( openresty  ) which provide WAF, Control Panel, and Dashboards.
 * [akamai-nginx](https://github.com/wyvern8/akamai-nginx) - Autoconfigure nginx based on Akamai property api rules using generated lua.
 * [nginxconfig.io](https://nginxconfig.io) - [GitHub](https://github.com/valentinxxx/nginxconfig.io) - Online nginx configuration generator for general purposes.
+* [nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing.
+* [nixy](https://github.com/martensson/nixy) - Nginx auto configuration and service discovery for Mesos/Marathon
+* [build-nginx](https://github.com/jaygooby/build-nginx) - An nginx build tool to really simplify downloading and building specific versions of nginx with different core and 3rd-party modules.
 
 ## Tutorials
 * [Nginx admin guide](https://www.nginx.com/resources/admin-guide/) - Nginx and nginx plus admin guide. 
