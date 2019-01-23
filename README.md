@@ -32,6 +32,7 @@ Feel free to add your project :)
 * [perl](http://nginx.org/en/docs/http/ngx_http_perl_module.html)
 * [mruby](https://github.com/matsumoto-r/ngx_mruby)
 * [clojure](https://github.com/nginx-clojure/nginx-clojure)
+* [php](https://github.com/rryqszq4/ngx_php)
 
 ## Builder
 This is bash command line builder that uses this curated list to automate installing and compiling nginx
@@ -137,6 +138,15 @@ These modules are not distributed with the Nginx source.
 * [ngx_http_avatars_gen_module](https://github.com/dizballanze/ngx_http_avatars_gen_module) - Nginx module for on-the-fly generating of avatars based on user initials.
 * [ngx_http_proxy_connect_module](https://github.com/chobits/ngx_http_proxy_connect_module) - A forward proxy module for CONNECT request handling
 * [modjpeg-nginx](https://github.com/ioppermann/modjpeg-nginx) - Filter module for adding overlays and logos to JPEGs on-the-fly without degrading the quality of the image.
+* [nginx-c-function](https://github.com/Taymindis/nginx-c-function) - It is a NGINX module that allow you to link your .so(c/c++) application in server context and call the function of .so application in location directive.
+* [ngx_lfqueue](https://github.com/Taymindis/ngx_lfqueue) - a lock free queue(enq/deq) container running on nginx share memory and it enqueue/dequeue the messages across multiple threads and multiple workers without any locking.
+* [ngx_lfstack](https://github.com/Taymindis/ngx_lfstack) - a lock free stack(push/pop) container running on nginx share memory and it push/pop the messages across multiple threads and multiple workers without any locking.
+* [ngx-stomp](https://github.com/Taymindis/ngx-stomp) - A STOMP upstream module on nginx, STOMP is the Simple (or Streaming) Text Orientated Messaging Protocol.
+* [nginx-elastic-client](https://github.com/Taymindis/nginx-elastic-client) - To structure your elastic client command in your nginx proxy for multiple elasticsearch server.
+* [zstd-nginx-module](https://github.com/tokers/zstd-nginx-module) - Nginx modules for the Zstandard compression.
+* [nginx_upstream_check_module](https://github.com/yaoweibin/nginx_upstream_check_module) - Health checks upstreams for nginx.
+* [ngx_php](https://github.com/rryqszq4/ngx_php) - Embedded php script language for nginx-module.
+* [ngx_http_guess_mime_module](https://github.com/ohnx/nginx-guess-mime) - Guess the MIME type of files served using libmagic.
 
 
 ### Lua Modules
@@ -285,3 +295,4 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [Wandenberg Peixoto](https://github.com/wandenberg)
 * [Joshua Zhu](https://github.com/zhuzhaoyuan)
 * [Simpl](https://github.com/simpl)
+* [Taymindis](https://github.com/Taymindis)
