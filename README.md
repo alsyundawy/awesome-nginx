@@ -114,7 +114,7 @@ These modules are not distributed with the Nginx source.
 * [nginx-hmux-module](https://github.com/wangbin579/nginx-hmux-module) - The module implements resin's hmux protocol in nginx. 
 * [nginx_ocsp_proxy-module](https://github.com/kyprizel/nginx_ocsp_proxy-module) - Nginx OCSP processing module designed for response caching. 
 * [nginx-hmac-secure-link](https://github.com/nginx-modules/nginx-hmac-secure-link) - Alternative Nginx secure link module with support for MD5, SHA-1, and SHA-2 hashes. 
-* [waf-nginx-module](https://github.com/hnlq715/waf-nginx-module) - A lightweight web application firewall module for nginx.. 
+* [waf-nginx-module](https://github.com/gsdu8g9/waf-nginx-module) - A lightweight web application firewall module for nginx.. 
 * [ngx-gm-filter](https://github.com/liseen/ngx-gm-filter) - Another image filter based GraphicsMagick.. 
 * [nginx-mod-so](https://github.com/hamano/nginx-mod-so) - nginx_mod_so is dynamic loadable module for Nginx. 
 * [nginx-auth-ldap](https://github.com/kvspb/nginx-auth-ldap) - LDAP authentication module for nginx. 
@@ -147,6 +147,7 @@ These modules are not distributed with the Nginx source.
 * [nginx_upstream_check_module](https://github.com/yaoweibin/nginx_upstream_check_module) - Health checks upstreams for nginx.
 * [ngx_php](https://github.com/rryqszq4/ngx_php) - Embedded php script language for nginx-module.
 * [ngx_http_guess_mime_module](https://github.com/ohnx/nginx-guess-mime) - Guess the MIME type of files served using libmagic.
+* [ngx_http_stat_check](https://github.com/mk-fg/nginx-stat-check) - Dynamic access blacklisting configuration via filesystem paths.
 
 
 ### Lua Modules
@@ -253,6 +254,8 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing.
 * [nixy](https://github.com/martensson/nixy) - Nginx auto configuration and service discovery for Mesos/Marathon
 * [build-nginx](https://github.com/jaygooby/build-nginx) - An nginx build tool to really simplify downloading and building specific versions of nginx with different core and 3rd-party modules.
+* [nginx-autoinstall](https://github.com/angristan/nginx-autoinstall) - Compile Nginx from source with custom modules on Debian and Ubuntu
+* [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) - Webinterface to manage nginx reverse-proxys with Letsencrypt support.
 
 ## Tutorials
 * [Nginx admin guide](https://www.nginx.com/resources/admin-guide/) - Nginx and nginx plus admin guide. 
@@ -266,7 +269,6 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [OpenResty best practice](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details) - OpenResty best practice(In Chinese). 
 * [Nginx-cheatsheet](https://github.com/SimulatedGREG/nginx-cheatsheet) - A quick reference to common server configurations from serving static files to using in congruency with Node.js applications.
 * [Monitoring Nginx on Kubernetes](https://sysdig.com/blog/monitor-nginx-kubernetes/) - Deployment options, use cases, metrics and alerts for containerized Nginx instances on Kubernetes.
-* [Nginx-dev-examples](https://github.com/nginxinc/nginx-dev-examples) - NGINX module development examples
 
 ## Mailing Lists
 
