@@ -92,7 +92,7 @@ These modules are not distributed with the Nginx source.
 * [nginx-module-url](https://github.com/vozlt/nginx-module-url) - Nginx url encoding converting module.
 * [ngx_small_light](https://github.com/cubicdaiya/ngx_small_light) - Dynamic Image Transformation Module For nginx. 
 * [nginx-upstream-fair](https://github.com/gnosek/nginx-upstream-fair) - The fair load balancer module for nginx.
-* [nginx_modSecurity](https://github.com/SpiderLabs/ModSecurity/tree/master/nginx) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. 
+* [nginx_modSecurity](https://github.com/SpiderLabs/ModSecurity-nginx) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. 
 * [nginx-fluentd-module](https://github.com/fluent/nginx-fluentd-module) - Nginx module for Fluentd data collector.
 * [ngx_zeromq](https://github.com/FRiCKLE/ngx_zeromq) - ZeroMQ transport for nginx. 
 * [ngx_cache_viewer](https://github.com/agile6v/ngx_cache_viewer) - nginx module which adds ability to view cache node info from FastCGI, proxy, SCGI and uWSGI caches.
@@ -124,7 +124,7 @@ These modules are not distributed with the Nginx source.
 * [nginx-markdown-module](https://github.com/gabrielfalcao/nginx-markdown-module) - renderize markdown as HTML directly from your upstream server. 
 * [nginx-nonewlines](https://github.com/vedang/nginx-nonewlines) - This is an nginx module to strip the served HTML of all newlines (\n and \r characters). 
 * [nginx-udplog-module](https://github.com/vkholodkov/nginx-udplog-module) - Implementation of logging using BSD Syslog Protocol for nginx (RFC 3164). 
-* [nginx-fancyindex](https://github.com/damm/nginx-fancyindex) - nginx fancy index module. 
+* [nginx-fancyindex](https://github.com/aperezdc/ngx-fancyindex) - nginx fancy index module. 
 * [nginx_ipset_blacklist](https://github.com/Vasfed/nginx_ipset_blacklist) - nginx module to use linux netfilter ipsets as blacklists. 
 * [nginx-mogilefs-module](https://github.com/vkholodkov/nginx-mogilefs-module) - MogileFS client for nginx. 
 * [ngx_http_php_session](https://github.com/replay/ngx_http_php_session) - nginx module to parse php sessions. 
@@ -257,6 +257,9 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [build-nginx](https://github.com/jaygooby/build-nginx) - An nginx build tool to really simplify downloading and building specific versions of nginx with different core and 3rd-party modules.
 * [nginx-autoinstall](https://github.com/angristan/nginx-autoinstall) - Compile Nginx from source with custom modules on Debian and Ubuntu
 * [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) - Webinterface to manage nginx reverse-proxys with Letsencrypt support.
+* [bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default.
+* [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen.
+* [nginx-lua](https://github.com/fabiocicerchia/nginx-lua) - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu.
 
 ## Tutorials
 * [Nginx admin guide](https://www.nginx.com/resources/admin-guide/) - Nginx and nginx plus admin guide. 
